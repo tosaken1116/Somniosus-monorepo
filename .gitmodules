@@ -1,0 +1,21 @@
+[submodule "Somniosus_front"]
+	path = Somniosus_front
+	url = git@github.com:tosaken1116/Somniosus_front.git
+[submodule "Somniosus_schema"]
+	path = Somniosus_schema
+	url = git@github.com:tosaken1116/Somniosus_schema.git
+[submodule "Somniosus_protobuf"]
+	path = Somniosus_protobuf
+	url = git@github.com:K-Kizuku/Somniosus_protobuf.git
+[submodule "Somniosus_gateway"]
+	path = Somniosus_gateway
+	url = git@github.com:K-Kizuku/Somniosus_gateway.git
+[submodule "Somniosus_back"]
+	path = Somniosus_back
+	url = git@github.com:K-Kizuku/Somniosus_back.git
+[submodule "Somniosus_manifest"]
+	path = Somniosus_manifest
+	url = git@github.com:yamato0211/Somniosus_manifest.git
+[submodule "Somniosus_infra"]
+	path = Somniosus_infra
+	url = git@github.com:yamato0211/Somniosus_infra.git
